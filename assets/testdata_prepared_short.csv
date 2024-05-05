@@ -1,0 +1,29 @@
+user_id,search_term,X,Y,info_need,need_probability,need_id,age,gender,education_level,job_type,income,previous_experience,intent_onetime_invest,intent_savingsplan,intent_active_trading,interested_in_shares,interested_in_funds,interested_in_etfs,interested_in_bonds,interested_in_levers,interested_in_certificates,interested_in_levers_or_certificates,plans_larger_invest,consider_ing,consider_comdirect,consider_spk,consider_etoro,consider_traderep
+b7d95ef7c415e21da10998701314f58b,wertpapiere kaufen,11.594218,7.065731,Where to Trade,0.992,14,50,Male,High school diploma,Self-employed,4001€ - 6000€,1,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0
+b8addfd300cee523d44fe3919704dea3,wertpapiere anbieter,10.744802,6.200619,Where to Trade,0.998,14,46,Male,Vocational training,Employee,2001€ - 2500€,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+f2c6d628ebe0ef1ff62cf7c6b64d04b7,"transparenz, bekannheitsgrad, zuverlässig",13.781424,5.310701,Safe and Reliable Providers,0.972,11,35,Female,Vocational training,Employee,3001€ - 4000€,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8598c0e8f9a90a5741a9a4818d5c6247,deka invewst,10.501516,10.13142,Brands,1,5,53,Male,Master degree,Employee,2001€ - 2500€,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+8598c0e8f9a90a5741a9a4818d5c6247,deka investment gmbh,10.878926,10.333457,Brands,1,5,53,Male,Master degree,Employee,2001€ - 2500€,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+ace4e82e2b1eeb119a578da71ae0c696,onvista bank,10.31415,8.454869,ETFs,0.896,12,57,Male,Vocational training,Self-employed,1501€ - 2000€,1,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0
+e94b7b95d3abb29e3a40248deefaf771,postbank,10.159233,8.300206,ETFs,0.957,12,65,Female,Vocational training,Employee,1501€ - 2000€,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+e94b7b95d3abb29e3a40248deefaf771,postbank aktien kaufen anleitung,11.152441,7.6342807,Where to Trade,0.782,14,65,Female,Vocational training,Employee,1501€ - 2000€,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+8ef4bdb580bb3314518cc1d0579b7127,kostenloses depot,8.122952,4.45799,Brokerage Accounts,0.977,3,66,Male,Master degree,Other,2001€ - 2500€,1,0,0,1,1,1,1,1,0,1,1,1,0,0,0,0,0
+a5b96421ff1fbe265558ab46107dda1e,deka investment,10.813401,10.339153,Brands,1,5,55,Male,Bachelor degree,Employee,2001€ - 2500€,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+a5b96421ff1fbe265558ab46107dda1e,axi investments,13.9064865,8.662046,Capital Investments,0.993,0,55,Male,Bachelor degree,Employee,2001€ - 2500€,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+85df0da6c33a7e6f8afe17ca4f8c7625,commerzbank online,10.092421,8.229294,ETFs,0.959,12,68,Male,Master degree,Other,2001€ - 2500€,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+c5ce739c80a134767901ab6c91f19bb9,sicherheit,13.591435,5.3321323,Safe and Reliable Providers,0.999,11,63,Female,Vocational training,Employee,2001€ - 2500€,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+c5ce739c80a134767901ab6c91f19bb9,sicherheit wertpapiere,13.490471,5.365268,Safe and Reliable Providers,0.999,11,63,Female,Vocational training,Employee,2001€ - 2500€,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+c5ce739c80a134767901ab6c91f19bb9,zinsen wertpapiere,11.794185,8.61609,Securities,0.988,8,63,Female,Vocational training,Employee,2001€ - 2500€,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+95b3760413a28e77bf380daf8881e6e2,wertpapieranlage beratung,12.962238,8.663056,Investment Providers,0.96,13,49,Male,High school diploma,Employee,2501€ - 3000€,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+95b3760413a28e77bf380daf8881e6e2,wertpapieranlage transparente beratung,14.291,5.4816017,Investment Transparency,0.997,7,49,Male,High school diploma,Employee,2501€ - 3000€,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+3e28b14828c85f978aa31782c059f262,anlagemöglichkeiten wertpapiere,13.013579,8.197476,Investment Providers,0.953,13,58,Male,Vocational training,Living off savings,1501€ - 2000€,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+848ff9c9628e4bbfb62ca8bb58aa30e2,wertpapier anbieter,10.714675,6.415852,Where to Trade,1,14,22,Female,Higher secondary school,Civil servant,1501€ - 2000€,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+848ff9c9628e4bbfb62ca8bb58aa30e2,in wertpapiere investieren,14.377468,7.9838314,Capital Investments,0.999,0,22,Female,Higher secondary school,Civil servant,1501€ - 2000€,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+848ff9c9628e4bbfb62ca8bb58aa30e2,die besten anbieter für wertpapiere,11.172359,5.786348,Where to Trade,0.685,14,22,Female,Higher secondary school,Civil servant,1501€ - 2000€,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+848ff9c9628e4bbfb62ca8bb58aa30e2,wertpapiere sparkasse,12.606746,9.6614065,Investments at Local Bank,1,9,22,Female,Higher secondary school,Civil servant,1501€ - 2000€,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+ed0f65512991930a42d62f980e220aa3,aktien kaufen,10.926276,7.170836,Where to Trade,0.986,14,63,Male,Master degree,Civil servant,4001€ - 6000€,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0
+22a52d3e74ea91df7991500fa4d530d4,wertpapiere investieren verifizert,14.228623,8.310831,Capital Investments,1,0,39,Male,High school diploma,Self-employed,1501€ - 2000€,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+2bc6e3c2face5905c4e62f92d179ee5e,keine depotgebühr günstige transaktionsgebühren,8.615471,4.7082276,Brokerage Accounts,0.985,3,51,Male,Vocational training,Civil servant,3001€ - 4000€,1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0
+8f406b92baa0ed13759b7d0bd6bd084e,aktienanbieter,10.275796,6.9174566,Where to Trade,0.997,14,66,Female,Vocational training,Other,1501€ - 2000€,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+da02a02f82f598c4a977080cd345475a,wertpapier anbieter erfahren sicher preiswert,12.739565,5.5306196,Free and Reputable Providers,0.878,10,68,Female,Higher secondary school,Other,1001€ - 1500€,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+da02a02f82f598c4a977080cd345475a,wertpapier anbieter sicher,13.1735115,4.908409,Safe and Reliable Providers,1,11,68,Female,Higher secondary school,Other,1001€ - 1500€,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
