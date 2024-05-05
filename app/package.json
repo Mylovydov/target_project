@@ -2,7 +2,7 @@
   "name": "iscb1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Mylovydov.github.io/target_project",
+  "homepage": "http://mylovydov.github.io/target_project",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
