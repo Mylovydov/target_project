@@ -1,33 +1,78 @@
-# Getting Started with Create React App
+# Target and Needs application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+Interactively build search term sets that match your target audience’s information needs
 
-## Available Scripts
+## Contents
+1.[Structure](#Structure)
 
-In the project directory, you can run:
+2.[Requirements](#Requirements)
 
-### `npm start`
+3.[Installation](#Installation)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Structure
+```
+target_project/
+    ├── .env.example
+    ├── .gitignore
+    ├── Makefile
+    ├── README.md
+    └── docker/
+        ├── docker-compose.development.yml
+        └── Dockerfile
+    └── app
+        ├── public
+        └── src
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Requirements
+```
+Node version: v18.17.1
+Version npm: 9.6.7
+Docker
+docker-compose
+```
 
-### `npm install`
+## Installation
 
-Install all dependencies
+### clone the project
 
-### `npm run build`
+- ssh `git@github.com:Mylovydov/target_project.git`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Environment variables
+You can find an example of the variables in `.env.example file`.
+Type this command
+```
+`cp .env.example .env` 
+```
+in the root of the project, then specify the variables in `KEY=VALUE` format
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```  
+---------------- DOCKER ---------------------
+Specify the type of development.
+ENVIRONMENT=development
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Specify a user ID to create a user and group in the container
+CURRENT_USER_ID=1000
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---------------- APP --------------------
+Specify the port on which the client part of the application will be launched
+CLIENT_PORT=3000
+```  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Makefile Commands
+Enter commands in the root directory of the project
+```bash
+---------------- App Services ----------------
+# Check the configuration of app services
+make check
+# Install all dependencies
+make install
+# Build an image based on Dockerfile
+make build
+# Up app services
+make up
+# Down app services
+make down
+# Restart app services
+make restart

@@ -1,0 +1,23 @@
+version: "3"
+
+volumes:
+  workspace_admin_data:
+
+services:
+  app:
+    working_dir: /app
+    restart: unless-stopped
+    build:
+      context: '../'
+      dockerfile: ./docker/node/Dockerfile
+      args:
+        - CURRENT_USER_ID:${CURRENT_USER_ID}
+    ports:
+      - ${CLIENT_PORT}:${CLIENT_PORT}
+    command: "npm start"
+    env_file:
+      - ./../.env
+    volumes:
+      - ./../app:/app:rw
+      - ./../.env:/app/.env:ro
+
